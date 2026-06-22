@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 ## Stack
 |  |
 | ------- |
