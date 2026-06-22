@@ -1,8 +1,3 @@
-static const int speedup = [](){
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    return 0;
-}();
 class Solution {
 public:
     char processStr(string s, long long k) {
@@ -31,8 +26,10 @@ public:
                 ++m;
             }
             else if(s[i] == '#'){
-                m = m / 2;
-                k %= m;
+                if(k + 1 > (m + 1) / 2){
+                    k -= (m / 2);
+                }
+                m = (m + 1) / 2;
             }
             else{
                 --m;
