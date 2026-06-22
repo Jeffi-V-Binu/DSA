@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
+| [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 ## Greedy
 |  |
 | ------- |
@@ -148,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
+## Graph Theory
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
