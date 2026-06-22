@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,8 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
