@@ -8,7 +8,7 @@ public:
                 continue;
             }
             else if(a == '*' ){
-                if(m > 0 ) --m;
+                if(m) --m;
             }
             else if(a == '#'){
                 m*=2;
@@ -17,7 +17,7 @@ public:
                 ++m;
             }
         }
-        if(m <= k) return '.';
+        if(k + 1 > m) return '.';
         for(int i = n - 1 ; i >= 0; --i){
             if(s[i] == '%'){
                 k = (m - 1) - k;
@@ -32,8 +32,8 @@ public:
                 m = (m + 1) / 2;
             }
             else{
+                if(m-1 == k) return s[i];
                 --m;
-                if(m == k) return s[i];
             }
         }
         return '.';
