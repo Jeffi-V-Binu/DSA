@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
