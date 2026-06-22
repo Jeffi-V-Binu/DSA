@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0135-candy) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
