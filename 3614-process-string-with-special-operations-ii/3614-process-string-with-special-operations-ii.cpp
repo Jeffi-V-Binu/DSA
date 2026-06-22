@@ -3,14 +3,14 @@ public:
     char processStr(string s, long long k) {
         int n = s.size();
         long long m = 0;
-        for(int i = 0 ; i < n ; ++i){
-            if(s[i] == '%'){
+        for(const char& a : s){
+            if(a == '%'){
                 continue;
             }
-            else if(s[i] == '*' ){
+            else if(a == '*' ){
                 if(m > 0 ) --m;
             }
-            else if(s[i] == '#'){
+            else if(a == '#'){
                 m*=2;
             }
             else{
