@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0031-next-permutation) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 ## Depth-First Search
@@ -215,4 +218,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2454-next-greater-element-iv](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/2454-next-greater-element-iv) |
+## Rolling Hash
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## String Matching
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Hash Function
+|  |
+| ------- |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
