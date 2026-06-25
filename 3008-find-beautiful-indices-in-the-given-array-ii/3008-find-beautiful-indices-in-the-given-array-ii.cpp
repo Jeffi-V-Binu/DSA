@@ -53,7 +53,7 @@ public:
         int n = s.size();
         int posiind = posi.size();
         int posjind = posj.size();
-        if(!posiind && !posjind) return result;
+        if(!posiind || !posjind) return result;
         for(const int& i : posi){
             int lower = max(0 , i - k);
             int upper = min(n - 1 , i + k);
