@@ -15,8 +15,10 @@ public:
         while(j < n){
             if(s[j] >= '0' && s[j] <= '9')digit = s[j] - '0';
             else break;
-            if(flag == 1){if(i > INT_MAX/10 || (i == INT_MAX/10 && digit > 7 )) return INT_MAX;}
-            else if(i > INT_MAX/10 || (i == INT_MAX/10 && digit > 7 )) return INT_MIN;
+            if(i > INT_MAX/10 || (i == INT_MAX/10 && digit > 7 )){
+                if(flag == 1) return INT_MAX;
+                else return INT_MIN;
+            }
             i = i * 10 + digit;
             ++j;
         }
