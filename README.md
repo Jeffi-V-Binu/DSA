@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0169-majority-element) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
