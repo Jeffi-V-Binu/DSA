@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
