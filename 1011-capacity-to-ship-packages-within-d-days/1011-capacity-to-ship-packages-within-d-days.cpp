@@ -8,7 +8,7 @@ public:
             mid = minw + (maxw - minw) / 2;
             int mind = 1;
             int total = 0;
-            for(int& i : weights){
+            for(int i : weights){
                 if(total + i > mid){
                     total = i;
                     ++mind;
