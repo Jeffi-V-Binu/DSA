@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
