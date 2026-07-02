@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0079-word-search) |
 | [0412-fizz-buzz](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/Jeffi-V-Binu/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
